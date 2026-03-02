@@ -53,6 +53,6 @@ I am a Computer Science student specializing in Data Science and Data Engineerin
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadyelfadaly&show_icons=true&theme=radical&cache_seconds=86400" alt="Hady's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadyelfadaly&show_icons=true&theme=radical&v=2" alt="Hady's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadyelfadaly&theme=radical" alt="Hady's GitHub streak" />
 </p>
