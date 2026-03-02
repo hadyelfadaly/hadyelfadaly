@@ -2,7 +2,7 @@
 
 I am a Computer Science student specializing in Data Science and Data Engineering. I focus on building end-to-end pipelines involving ETL automation, dimensional modeling, analytics, machine learning, and database-backed systems.
 
-### About Me
+### 👨‍💻 About Me
 - Pursuing a Bachelor of Science in Computer Science at Cairo University with a GPA of 3.08/4.0.
 - Currently a Data Engineering Trainee at ALX Africa and enrolled in the DataTalks.Club Data Engineering Zoomcamp.
 - Certified Associate Data Engineer in SQL via DataCamp.
@@ -43,6 +43,7 @@ I am a Computer Science student specializing in Data Science and Data Engineerin
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
@@ -52,6 +53,6 @@ I am a Computer Science student specializing in Data Science and Data Engineerin
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadyelfadaly&show_icons=true&theme=radical" alt="Hady's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadyelfadaly&show_icons=true&theme=radical&cache_seconds=86400" alt="Hady's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadyelfadaly&theme=radical" alt="Hady's GitHub streak" />
 </p>
