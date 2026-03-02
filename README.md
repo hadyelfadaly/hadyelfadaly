@@ -13,7 +13,7 @@ I am a Computer Science student specializing in Data Science and Data Engineerin
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hadyelfadaly@gmail.com" target="_blank">
+  <a href="mailto:hadyelfadaly@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/hady-el-fadaly-800971279/">
