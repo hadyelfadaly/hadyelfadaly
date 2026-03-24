@@ -5,7 +5,7 @@ I am a Computer Science student specializing in Data Science and Data Engineerin
 ### 👨‍💻 About Me
 - Pursuing a Bachelor of Science in Computer Science at Cairo University with a GPA of 3.08/4.0.
 - Currently a Data Engineering Trainee at ALX Africa and enrolled in the DataTalks.Club Data Engineering Zoomcamp.
-- Certified Associate Data Engineer in SQL via DataCamp.
+- Certified Associate Data Engineer by DataCamp.
 - Experienced in designing Star Schema data warehouses and automated ETL pipelines using SQL Server, T-SQL, and Power BI.
 - Building hands-on experience with workflow orchestration and cloud infrastructure using Docker, Apache Airflow, Snowflake, and GCP.
 
