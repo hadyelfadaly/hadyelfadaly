@@ -63,6 +63,8 @@ Data Engineering student building cloud-native, end-to-end pipelines — from or
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
