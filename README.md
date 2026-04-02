@@ -5,12 +5,12 @@ Data Engineering student building cloud-native, end-to-end pipelines — from or
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science student at Cairo University, Data Science Department — GPA 3.08/4.0
-- 🏗️ Completed the **DataTalks.Club Data Engineering Zoomcamp 2026** — capstone: end-to-end bikeshare pipeline on GCP (Airflow → GCS → BigQuery → dbt → Power BI, provisioned with Terraform)
-- 🛠️ Data Engineering Trainee at **ALX Africa** — 14-month structured DE program
-- 🏅 **DataCamp Certified Associate Data Engineer**
-- 📦 Experienced in Star Schema design, SCD Type 6, incremental ETL, and dimensional modeling
-- ☁️ Hands-on with the modern data stack: Apache Airflow, dbt, BigQuery, GCS, Terraform, Docker
+- Computer Science student at Cairo University, Data Science Department — GPA 3.08/4.0
+- Completed the **DataTalks.Club Data Engineering Zoomcamp 2026**
+- Data Engineering Trainee at **ALX Africa** — 14-month structured DE program
+- **DataCamp Certified Associate Data Engineer**
+- Experienced in Star Schema design, SCD types, incremental ETL, dimensional modeling, and ELT architecture
+- Hands-on with the modern data stack: Apache Airflow, dbt, BigQuery, GCS, Terraform, Docker
 
 ---
 
@@ -57,9 +57,10 @@ Data Engineering student building cloud-native, end-to-end pipelines — from or
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ### 📊 GitHub Stats
