@@ -70,4 +70,4 @@ Data Engineering student building cloud-native, end-to-end pipelines — from or
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadyelfadaly&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=hadyelfadaly&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
