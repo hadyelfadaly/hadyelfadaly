@@ -69,5 +69,3 @@ Data Engineering student building cloud-native, end-to-end pipelines — from or
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadyelfadaly&theme=dark" alt="GitHub Streak" />
