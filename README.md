@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hady El Fadaly
 
-Data Engineering student building cloud-native, end-to-end pipelines — from orchestrated ingestion and cloud storage through transformation, warehousing, and BI reporting. Comfortable across the full modern data stack on GCP, with additional background in data warehouse design and automated ETL on SQL Server.
+Computer Science student building cloud-native, end-to-end pipelines — from orchestrated ingestion and cloud storage through transformation, warehousing, and BI reporting. Comfortable across the full modern data stack on GCP, with additional background in data warehouse design and automated ETL on SQL Server.
 
 ---
 
