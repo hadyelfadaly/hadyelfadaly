@@ -1,16 +1,17 @@
 # Hi there 👋, I'm Hady El Fadaly
 
-Computer Science student building cloud-native, end-to-end pipelines — from orchestrated ingestion and cloud storage through transformation, warehousing, and BI reporting. Comfortable across the full modern data stack on GCP, with additional background in data warehouse design and automated ETL on SQL Server.
+Computer Science student building cloud-native, end-to-end pipelines — from orchestrated ingestion and cloud storage through transformation, warehousing, and BI reporting. Comfortable across the full modern data stack on GCP and Microsoft Fabric, with additional background in data warehouse design and automated ETL on SQL Server.
 
 ---
 
 ### 👨‍💻 About Me
 - Computer Science student at Cairo University, Data Science Department — GPA 3.08/4.0
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 - Completed the **DataTalks.Club Data Engineering Zoomcamp 2026**
-- Data Engineering Trainee at **ALX Africa** — 14-month structured DE program
+- Data Engineering Trainee at **ALX Africa**
 - **DataCamp Certified Associate Data Engineer**
 - Experienced in Star Schema design, SCD types, incremental ETL, dimensional modeling, and ELT architecture
-- Hands-on with the modern data stack: Apache Airflow, dbt, BigQuery, GCS, Terraform, Docker
+- Hands-on with the modern data stack: Apache Airflow, dbt, BigQuery, GCS, Terraform, Docker, Microsoft Fabric
 
 ---
 
@@ -37,9 +38,9 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Fabric" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
 **Languages & Databases**
