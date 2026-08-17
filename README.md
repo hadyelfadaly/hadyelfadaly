@@ -8,7 +8,6 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
 - Computer Science student at Cairo University, Data Science Department — GPA 3.07/4.0
 - **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 - Completed the **DataTalks.Club Data Engineering Zoomcamp 2026**
-- Data Engineering Trainee at **ALX Africa**
 - **DataCamp Certified Associate Data Engineer**
 - Experienced in Star Schema design, SCD types, incremental ETL, dimensional modeling, and ELT architecture
 - Hands-on with the modern data stack: Apache Airflow, dbt, BigQuery, GCS, Terraform, Docker, Microsoft Fabric
