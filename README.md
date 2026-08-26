@@ -4,8 +4,8 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
 
 ---
 
-### 👨‍💻 About Me
-- Computer Science student at Cairo University, Data Science Department — GPA 3.07/4.0
+### About Me
+- Computer Science student at Cairo University, Data Science Department
 - **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 - Completed the **DataTalks.Club Data Engineering Zoomcamp 2026**
 - **DataCamp Certified Associate Data Engineer**
@@ -14,7 +14,7 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 <p align="left">
   <a href="mailto:hadyelfadaly@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -29,7 +29,7 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 **Data Engineering & Cloud**
 <p align="left">
@@ -65,7 +65,7 @@ Computer Science student building cloud-native, end-to-end pipelines — from or
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
