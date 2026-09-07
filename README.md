@@ -23,15 +23,19 @@ Computer Science student building cloud-native, end-to-end data pipelines and ap
 ### Languages and Tools
 
 **Data Engineering & Cloud**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=airflow,gcp,azure,terraform,docker" height="32" />
 </p>
+
 **Languages & Databases**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,mssql,postgres,mysql" height="32" />
 </p>
 
 **Analytics & Other**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi,pandas,linux,jupyter" height="32" />
 </p>
@@ -39,6 +43,7 @@ Computer Science student building cloud-native, end-to-end data pipelines and ap
 ---
 
 ### GitHub Stats
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
 </p>
