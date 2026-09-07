@@ -17,6 +17,7 @@ Computer Science student building cloud-native, end-to-end data pipelines and ap
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
+
 ---
 
 ### Languages and Tools
@@ -36,6 +37,7 @@ Computer Science student building cloud-native, end-to-end data pipelines and ap
 </p>
 
 ---
+
 ### GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadyelfadaly&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
