@@ -2,7 +2,7 @@
 
 <h3 align="left">Computer Science student building data pipelines and applied AI systems — from ingestion and warehousing to LLM-based workflows.</h3>
 
-- Software Engineer exploring the Data & AI World
+- Software Engineer exploring the Data & AI world
 - Looking to collaborate on data pipelines, LLM/RAG systems, and applied AI projects
 
 <h3>Connect with me:</h3>
