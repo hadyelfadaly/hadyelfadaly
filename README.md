@@ -2,7 +2,7 @@
 
 <h3 align="left">Computer Science student building data pipelines and applied AI systems — from ingestion and warehousing to LLM-based workflows.</h3>
 
-- AI Engineer Intern at [BARQ Systems](https://www.barqsystems.com/en)
+- Software Engineer exploring the Data & AI World
 - Looking to collaborate on data pipelines, LLM/RAG systems, and applied AI projects
 
 <h3>Connect with me:</h3>
