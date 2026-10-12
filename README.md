@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hady El Fadaly 👋</h1>
 
-<h3 align="left">Computer Science student building data pipelines and applied AI systems — from ingestion and warehousing to LLM-based workflows.</h3>
+<h3 align="left">Software Engineer building data pipelines and applied AI systems — from ingestion and warehousing to LLM-based workflows.</h3>
 
-- Software Engineer exploring the Data & AI world
+- Data Engineer by background, with hands-on AI engineering experience
 - Looking to collaborate on data pipelines, LLM/RAG systems, and applied AI projects
 
 <h3>Connect with me:</h3>
